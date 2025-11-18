@@ -1,51 +1,49 @@
 # Hi, I'm Yunus 👋
 
-Computer Engineering student focusing on **Python-based automation**,  
+Computer Engineering student currently working on **Python-based automation**,  
 **data processing tools**, and **Android mini utility applications**.
 
-I enjoy building lightweight, practical tools and exploring  
-AI-assisted development workflows — especially in areas where  
-software, data, and real-time processing come together.
+I enjoy building lightweight, practical tools — especially in areas where  
+software, data, and real-time processing intersect.
 
 ---
 
 ## 🧩 Tech Focus
 
-**Primary:**  
-Python (automation, data processing, file operations, tooling etc.)
+**Primary**  
+Python (automation, data processing, file handling, small tooling)
 
-**Secondary:**  
+**Secondary**  
 Android (Java) – mini utility apps, simple UI-driven applications
 
-**Foundational:**  
-FastAPI (basic backend), C, C++, Arduino, OCR/ASR (research-level exposure)
+**Foundational**  
+FastAPI (basic backend), C, C++, Arduino, OCR/ASR (research exposure)
 
-**Exploratory:**  
+**Exploratory**  
 Signal processing, embedded systems, advanced sensing architectures
 
 ---
 
 ## 🔭 Long-Term Direction
 
-In the long run, I aim to move toward systems that bring together  
-software, signal processing, and embedded technology — focusing on  
-future human–technology interfaces and sensing systems.
+I’m gradually moving toward systems that integrate software,  
+signal processing, and embedded technology — with an interest in  
+next-generation human–technology interfaces and sensing systems.
 
-I'm currently building the foundations for this direction while  
-developing practical tools and applied projects.
+My current projects are building the early foundations for this track.
 
 ---
 
 ## 🚀 Current Work
 
-- Developing a privacy-focused multimodal detection system  
-  (university-backed research; details intentionally minimized)
+- A privacy-oriented multimodal detection system  
+  (university-backed; details intentionally minimized)
 
-- Creating Python automation & data transformation tools  
-  (PDF/CSV/Excel utilities, converters, small processing scripts)
+- Python automation and data-processing tools  
+  (Excel/CSV/PDF utilities, format converters, processing scripts)
 
-- Building Android utility applications  
-  (GPS tools, CRUD apps, small feature-focused apps)
+- Android mini applications  
+  (GPS utilities, CRUD tools, small feature-focused apps)
 
 ---
 
@@ -54,14 +52,14 @@ developing practical tools and applied projects.
 Actively working on:
 
 - Publishing Python automation tools  
-- Building AI-assisted micro applications  
-- Structuring ongoing research cleanly  
-- Improving documentation, reproducibility, and code quality  
-- Expanding toward signal and embedded-oriented systems  
+- Expanding small, practical utility apps  
+- Organizing ongoing research work more cleanly  
+- Improving documentation and reproducibility  
+- Moving gradually toward embedded/signal-centric projects  
 
 ---
 
 ## 📬 Contact
 
-📧 Email: m.y.yildiz@outlook.com.tr  
-🔗 LinkedIn: linkedin.com/in/myunusyildiz
+📧 Email: **m.y.yildiz@outlook.com.tr**  
+🔗 LinkedIn: **linkedin.com/in/myunusyildiz**
